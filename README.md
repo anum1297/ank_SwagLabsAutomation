@@ -45,3 +45,13 @@ This automation suite is designed to:
 
 ## 🗂 Project Structure
 
+SwagLabsAutomation/
+├── src/
+│ ├── main/
+│ │ └── java/com.swaglabs.pages/ # Page Object Model classes
+│ └── test/
+│ └── java/com.swaglabs.tests/ # TestNG test cases
+├── testng.xml # Test suite configuration
+├── pom.xml # Maven build file
+├── reports/ # Extent reports output
+└── README.md # Project documentation
