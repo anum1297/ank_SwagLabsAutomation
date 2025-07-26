@@ -1,0 +1,9 @@
+com\swaglabs\pagelayer\ConfirmOrder_Page.class
+com\swaglabs\helpers\TestData_Reader.class
+com\swaglabs\pagelayer\ProductOverview_Page.class
+com\swaglabs\pagelayer\Product_Page.class
+com\swaglabs\pagelayer\UserLogin_Page.class
+com\swaglabs\utilities\ExtentReportManager.class
+com\swaglabs\config\Reusable_page.class
+com\swaglabs\pagelayer\CheckOut_Page.class
+com\swaglabs\pagelayer\UserInfo_Page.class

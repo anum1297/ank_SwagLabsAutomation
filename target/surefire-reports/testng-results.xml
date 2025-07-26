@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-06-15T20:04:52 IST" name="Suite" finished-at="2025-06-15T20:05:48 IST" duration-ms="56109">
+    <groups>
+    </groups>
+    <test started-at="2025-06-15T20:04:52 IST" name="Test" finished-at="2025-06-15T20:05:48 IST" duration-ms="56109">
+      <class name="com.swaglabs.testlayer.TC04_TestOrderCreation">
+        <test-method is-config="true" signature="OpenSwaglabs()[pri:0, instance:com.swaglabs.testlayer.TC04_TestOrderCreation@45d84a20]" started-at="2025-06-15T20:05:20 IST" name="OpenSwaglabs" finished-at="2025-06-15T20:05:23 IST" duration-ms="2481" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenSwaglabs -->
+        <test-method signature="createOrder()[pri:0, instance:com.swaglabs.testlayer.TC04_TestOrderCreation@45d84a20]" started-at="2025-06-15T20:05:23 IST" name="createOrder" finished-at="2025-06-15T20:05:24 IST" duration-ms="1843" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createOrder -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.swaglabs.testlayer.TC04_TestOrderCreation@45d84a20]" started-at="2025-06-15T20:05:25 IST" name="tearDown" finished-at="2025-06-15T20:05:30 IST" duration-ms="5296" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.swaglabs.testlayer.TC04_TestOrderCreation -->
+      <class name="com.swaglabs.testlayer.TC01_TestLoginFunctionality">
+        <test-method is-config="true" signature="OpenSwaglabs()[pri:0, instance:com.swaglabs.testlayer.TC01_TestLoginFunctionality@723ca036]" started-at="2025-06-15T20:04:52 IST" name="OpenSwaglabs" finished-at="2025-06-15T20:04:56 IST" duration-ms="3999" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenSwaglabs -->
+        <test-method signature="LoginTest()[pri:0, instance:com.swaglabs.testlayer.TC01_TestLoginFunctionality@723ca036]" started-at="2025-06-15T20:04:56 IST" name="LoginTest" finished-at="2025-06-15T20:04:57 IST" duration-ms="618" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.swaglabs.testlayer.TC01_TestLoginFunctionality@723ca036]" started-at="2025-06-15T20:04:57 IST" name="tearDown" finished-at="2025-06-15T20:05:02 IST" duration-ms="5297" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.swaglabs.testlayer.TC01_TestLoginFunctionality -->
+      <class name="com.swaglabs.testlayer.TC05_TestAddToCartFunctionality">
+        <test-method is-config="true" signature="OpenSwaglabs()[pri:0, instance:com.swaglabs.testlayer.TC05_TestAddToCartFunctionality@52f27fbd]" started-at="2025-06-15T20:05:30 IST" name="OpenSwaglabs" finished-at="2025-06-15T20:05:32 IST" duration-ms="2416" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenSwaglabs -->
+        <test-method signature="verifyProductAdditionToCart()[pri:0, instance:com.swaglabs.testlayer.TC05_TestAddToCartFunctionality@52f27fbd]" started-at="2025-06-15T20:05:32 IST" name="verifyProductAdditionToCart" finished-at="2025-06-15T20:05:33 IST" duration-ms="977" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyProductAdditionToCart -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.swaglabs.testlayer.TC05_TestAddToCartFunctionality@52f27fbd]" started-at="2025-06-15T20:05:33 IST" name="tearDown" finished-at="2025-06-15T20:05:39 IST" duration-ms="5311" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.swaglabs.testlayer.TC05_TestAddToCartFunctionality -->
+      <class name="com.swaglabs.testlayer.TC06_RemoveProductFromCartFunctionality">
+        <test-method is-config="true" signature="OpenSwaglabs()[pri:0, instance:com.swaglabs.testlayer.TC06_RemoveProductFromCartFunctionality@4c163e3]" started-at="2025-06-15T20:05:39 IST" name="OpenSwaglabs" finished-at="2025-06-15T20:05:41 IST" duration-ms="2437" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenSwaglabs -->
+        <test-method signature="verifyProductRemovalfromCart()[pri:0, instance:com.swaglabs.testlayer.TC06_RemoveProductFromCartFunctionality@4c163e3]" started-at="2025-06-15T20:05:41 IST" name="verifyProductRemovalfromCart" finished-at="2025-06-15T20:05:42 IST" duration-ms="1211" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyProductRemovalfromCart -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.swaglabs.testlayer.TC06_RemoveProductFromCartFunctionality@4c163e3]" started-at="2025-06-15T20:05:43 IST" name="tearDown" finished-at="2025-06-15T20:05:48 IST" duration-ms="5393" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.swaglabs.testlayer.TC06_RemoveProductFromCartFunctionality -->
+      <class name="com.swaglabs.testlayer.TC03_TestLogoutFunctionality">
+        <test-method is-config="true" signature="OpenSwaglabs()[pri:0, instance:com.swaglabs.testlayer.TC03_TestLogoutFunctionality@28dcca0c]" started-at="2025-06-15T20:05:11 IST" name="OpenSwaglabs" finished-at="2025-06-15T20:05:14 IST" duration-ms="2541" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenSwaglabs -->
+        <test-method signature="LogoutTest()[pri:0, instance:com.swaglabs.testlayer.TC03_TestLogoutFunctionality@28dcca0c]" started-at="2025-06-15T20:05:14 IST" name="LogoutTest" finished-at="2025-06-15T20:05:15 IST" duration-ms="917" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LogoutTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.swaglabs.testlayer.TC03_TestLogoutFunctionality@28dcca0c]" started-at="2025-06-15T20:05:15 IST" name="tearDown" finished-at="2025-06-15T20:05:20 IST" duration-ms="5334" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.swaglabs.testlayer.TC03_TestLogoutFunctionality -->
+      <class name="com.swaglabs.testlayer.TC02_TestInvalidLogin">
+        <test-method is-config="true" signature="OpenSwaglabs()[pri:0, instance:com.swaglabs.testlayer.TC02_TestInvalidLogin@25be7b63]" started-at="2025-06-15T20:05:02 IST" name="OpenSwaglabs" finished-at="2025-06-15T20:05:05 IST" duration-ms="2678" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenSwaglabs -->
+        <test-method signature="testInvalidLogin()[pri:0, instance:com.swaglabs.testlayer.TC02_TestInvalidLogin@25be7b63]" started-at="2025-06-15T20:05:05 IST" name="testInvalidLogin" finished-at="2025-06-15T20:05:06 IST" duration-ms="651" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testInvalidLogin -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.swaglabs.testlayer.TC02_TestInvalidLogin@25be7b63]" started-at="2025-06-15T20:05:06 IST" name="tearDown" finished-at="2025-06-15T20:05:11 IST" duration-ms="5291" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.swaglabs.testlayer.TC02_TestInvalidLogin -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
