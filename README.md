@@ -61,10 +61,12 @@ This automation suite is designed to:
 
 ### 🔽 Clone the repository
 
-```bash
+- bash
 git clone https://github.com/anum1297/ank_SwagLabsAutomation.git
 cd ank_SwagLabsAutomation
 
----
 ### 📦 Install dependencies
+- bash
+mvn clean install
+
 
