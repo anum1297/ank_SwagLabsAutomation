@@ -47,5 +47,24 @@ This automation suite is designed to:
 <img width="502" height="529" alt="Screenshot 2025-07-26 193755" src="https://github.com/user-attachments/assets/c3d7c272-3e87-41b0-a09b-f89bdf9492f2" />
 <img width="499" height="440" alt="Screenshot 2025-07-26 194303" src="https://github.com/user-attachments/assets/f5be0c94-d15a-4465-8fa4-60f9b1e7b7a3" />
 
+---
 
+## 🚀 Setup Instructions
+
+### 🖥 Prerequisites
+
+- Java JDK 8 or above
+- Maven 3.x
+- Eclipse or IntelliJ
+- Git
+- Chrome or Firefox browser
+
+### 🔽 Clone the repository
+
+```bash
+git clone https://github.com/anum1297/ank_SwagLabsAutomation.git
+cd ank_SwagLabsAutomation
+
+---
+### 📦 Install dependencies
 
