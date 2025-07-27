@@ -32,11 +32,6 @@ This automation suite is designed to:
 <img width="1893" height="694" alt="Screenshot 2025-07-26 195809" src="https://github.com/user-attachments/assets/e43a10b6-48a1-4fff-b79c-61439d509937" />
 <img width="1895" height="533" alt="Screenshot 2025-07-26 195748" src="https://github.com/user-attachments/assets/7a86ba5b-2edc-402d-9bd6-cb601761d2ec" />
 
-
-- Walkthrough Video
-
-<video controls src="Recording 2025-07-26 192306.mp4" title="Title"></video>
-
 ---
 
 ## 🧰 Tech Stack
