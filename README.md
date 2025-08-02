@@ -14,6 +14,7 @@ Automated Test Framework built using **Selenium WebDriver**, **TestNG**, **Exten
 - [▶️ How to Run Tests](#how-to-run-tests)
 - [📊 Reporting](#reporting)
 - [🔁 CI/CD Pipeline](#cicd-pipeline)
+- [📧 Email Report Integration](email-report-integration)
 - [📫 Contribution](#contribution)
 - [🔐 Conclusion](#conclusion)
 
@@ -31,6 +32,11 @@ This automation suite is designed to:
 <img width="1919" height="892" alt="Screenshot 2025-07-26 195701" src="https://github.com/user-attachments/assets/3795ecf8-f27f-4383-9154-ae0872f077b4" />
 <img width="1893" height="694" alt="Screenshot 2025-07-26 195809" src="https://github.com/user-attachments/assets/e43a10b6-48a1-4fff-b79c-61439d509937" />
 <img width="1895" height="533" alt="Screenshot 2025-07-26 195748" src="https://github.com/user-attachments/assets/7a86ba5b-2edc-402d-9bd6-cb601761d2ec" />
+
+
+- Walkthrough Video
+
+<video controls src="Recording 2025-07-26 192306.mp4" title="Title"></video>
 
 ---
 
@@ -186,6 +192,31 @@ pipeline {
 
 ---
 
+## 📧 Email Report Integration
+
+Email Sending Features:
+
+Sends test result summary after build
+
+Includes:
+
+Total passed/failed/skipped
+
+Attached ExtentReport
+
+Configuration:
+
+SMTP details configured in a MailUtility.java class
+
+Triggered in ITestListener after suite completes
+
+Open in your email to view test results with status:
+
+![alt text](<Screenshot 2025-08-02 081851.png>)
+
+```
+
+---
 ## 📫 Contribution
 
 Contributions are welcome!  
