@@ -213,7 +213,6 @@ Triggered in ITestListener after suite completes
 Open in your email to view test results with status:
 
 <img width="1897" height="838" alt="image" src="https://github.com/user-attachments/assets/f19e42ca-ee75-4402-9d41-665d7289dc1d" />
----
 
 ---
 
